@@ -1,0 +1,46 @@
+.container{
+    background-image: url(img1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    font-size: 2.9rem;
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 12rem;
+    left: 32rem;
+}
+.hes-2{
+     font-size: 0.6rem;
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 4rem;
+    left: 12rem;
+    text-align: center;
+
+}
+.head-3{
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 0rem;
+    left: 1rem;
+text-align: center;
+}
+.container p{
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 1rem;
+    right: 23rem;
+    text-align: center;
+
+}
